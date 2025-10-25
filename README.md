@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-This is my first project, a login form. 
-👩‍💻 I am currently learning Html and Css 
-I would appreciate help on JS
 
-☎️Contact me: tashakalira@outlook.com
+☎️Contact me:natashakalira@gmail.com
               on X @foxalpha96
 
 
